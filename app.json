@@ -4,11 +4,11 @@
     "slug": "Perfil3_EdgarPineda",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/d0a46938c1721f54e3b236a1b61dfd54.jpg",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/d0a46938c1721f54e3b236a1b61dfd54.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,13 +17,20 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/d0a46938c1721f54e3b236a1b61dfd54.jpg",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.edgarptc.Perfil3_EdgarPineda"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/d0a46938c1721f54e3b236a1b61dfd54.jpg",
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b621a3b1-139a-49f8-89c6-e91bc23fc137"
+      }
     }
   }
 }
